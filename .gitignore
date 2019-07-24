@@ -1,0 +1,11 @@
+*.log
+*.tgz
+.DS_Store
+.changelog
+.next/
+.sass-cache
+.storybuild/
+_site
+dist/
+node_modules/
+searchIndex.js

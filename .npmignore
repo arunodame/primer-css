@@ -1,0 +1,15 @@
+*.log
+.github/
+.next/
+.storybook/
+next.config.js
+now.json
+docs/
+docs-test/
+lib/
+pages/
+script/
+# we ignore this because everything in src/ is copied out in script/prepublish
+src/
+static/
+tests/
