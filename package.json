@@ -79,7 +79,7 @@
     "klaw": "3.0.0",
     "loader-utils": "^1.1.0",
     "mdx-constant": "^0.1.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "next": "7.0.2",
     "node-fetch": "2.4.0",
     "now": "^12.1.8",
